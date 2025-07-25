@@ -1,6 +1,6 @@
 # Autonomous AI Planetary Repair DAO: Technical Whitepaper
 
-© [2025] [Ricky Foster]. Licensed under CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/legalcode
+© 2025 Ricky Foster Licensed under CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/legalcode
 
 ## Executive Summary
 
