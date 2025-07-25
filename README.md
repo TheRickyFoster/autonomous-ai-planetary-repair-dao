@@ -1,5 +1,7 @@
 # Autonomous AI Planetary Repair DAO: Technical Whitepaper
 
+© [2025] [Ricky Foster]. Licensed under CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/legalcode
+
 ## Executive Summary
 
 The Autonomous Planetary Repair DAO (APR-DAO) proposes a novel approach to environmental restoration using blockchain technology, artificial intelligence, and decentralized governance. This system aims to address systemic failures in traditional conservation efforts by creating a self-sustaining, transparent, and corruption-resistant platform for planetary repair initiatives.
